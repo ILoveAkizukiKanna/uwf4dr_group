@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ai01@36.26.11.61:2226 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="ai01">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ai01/disk_7T/renlu/w/sjf/uwf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ai01@36.26.11.61:2226 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ai01/disk_7T/renlu/w/sjf/uwf" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ai01@36.26.11.61:2226 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ai01/disk_7T/renlu/w/sjf/uwf" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
